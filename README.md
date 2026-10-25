@@ -4,7 +4,7 @@ I'm a SaaS founder and systems architect focused on modern search discovery, tel
 
 🔭 **What I'm Building:**
 - **[DigiWebscape](https://digiwebscape.com)** — AI Search Intelligence (GEO/AEO), Cookieless Telemetry, and Agentic Protocols.
-- **[Monkfeed](https://monkfeed.com)** — Co-Founder (Growth & Strategy). User feedback intelligence and feature prioritization platform.
+- **[Monkfeed](https://www.monkfeed.com)** — Co-Founder (Growth & Strategy). User feedback intelligence and feature prioritization platform.
 
 ⚡ **Core Focus Areas:**
 - **AI Answer Engines:** Measuring and optimizing citations across ChatGPT, Claude, Gemini, and Perplexity.
