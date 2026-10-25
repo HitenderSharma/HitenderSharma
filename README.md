@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Hitender Sharma 👋
 
-<!--
-**HitenderSharma/HitenderSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a SaaS founder and systems architect focused on modern search discovery, telemetry, and customer-led growth.
 
-Here are some ideas to get you started:
+🔭 **What I'm Building:**
+- **[DigiWebscape](https://digiwebscape.com)** — AI Search Intelligence (GEO/AEO), Cookieless Telemetry, and Agentic Protocols.
+- **[Monkfeed](https://monkfeed.com)** — Co-Founder (Growth & Strategy). User feedback intelligence and feature prioritization platform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ **Core Focus Areas:**
+- **AI Answer Engines:** Measuring and optimizing citations across ChatGPT, Claude, Gemini, and Perplexity.
+- **Architecture:** Zero-cookie edge telemetry, Model Context Protocol (MCP), and PWA architecture.
+- **SaaS Growth:** Product-led growth (PLG), feedback collection systems, and churn mitigation.
+
+📫 **Find Me Online:**
+- **Website:** [digiwebscape.com](https://digiwebscape.com)
+- **LinkedIn:** [linkedin.com/in/HitenderSharma](https://www.linkedin.com/in/HitenderSharma/)
+- **X (Twitter):** [@HitenderSh](https://x.com/HitenderSh)
