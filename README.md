@@ -1,5 +1,5 @@
 # Hitender Sharma
-> Founder & Chief Architect at [DigiWebscape](https://digiwebscape.com) • Systems Architect & Growth Consultant
+> Founder & Chief Architect at [DigiWebscape](https://digiwebscape.com) | Systems Architect & Growth Consultant
 
 Architecting discovery, telemetry, and commerce for the Generative AI era.
 
