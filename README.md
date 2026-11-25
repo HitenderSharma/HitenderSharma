@@ -15,4 +15,4 @@ Architecting discovery, telemetry, and machine commerce for the Generative AI er
 - **[digiwebscape](https://github.com/DigiWebscape/python-sdk)**: Official Python SDK on PyPI for automated auditing workflows.
 - **[atp](https://github.com/DigiWebscape/atp)**: The open specification for Agent Transaction Protocol (ATP/1.0).
 
-🌐 [digiwebscape.com](https://digiwebscape.com) | 🪪 [hsh.beamup.page](https://hsh.beamup.page) | 🐦 [@HitenderSh](https://x.com/HitenderSh)
+🌐 [hitendersharma.com](https://hitendersharma.com) | 🪪 [hsh.beamup.page](https://hsh.beamup.page) | 🐦 [@HitenderSh](https://x.com/HitenderSh)
